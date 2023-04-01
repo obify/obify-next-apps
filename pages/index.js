@@ -18,8 +18,15 @@ export default function Home() {
         <h2>OBIFY CONSULTING</h2><br />
         <a target='_blank' href='https://stellular-duckanoo-b92d72.netlify.app/'>HTML & CSS Practicals - 1</a>
         <a style={{ display: 'none' }} href='https://github.com/ranjanpandeysbp/training-fe'>training-fe</a><br />
-        <a target='_blank' href='https://verdant-zabaione-915e20.netlify.app/'>HTML & CSS Practicals - 2</a>
+        <a target='_blank'
+          href='https://verdant-zabaione-915e20.netlify.app/'>
+          HTML & CSS Practicals - 2
+        </a>
         <a style={{ display: 'none' }} href='https://github.com/mahesh1404/Frontend'>Frontend</a><br />
+        <a target='_blank'
+          href='https://obifyconsulting.vercel.app/api/products'>
+          Products Fake API
+        </a>
       </main>
     </>
   )
