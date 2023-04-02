@@ -24,6 +24,12 @@ export default function Home() {
         </a>
         <a style={{ display: 'none' }} href='https://github.com/mahesh1404/Frontend'>Frontend</a><br />
         <a target='_blank'
+          href='https://product-mern-app-fe.vercel.app/'>
+          Product MERN App
+        </a>
+        <a style={{ display: 'none' }} href='https://github.com/obify/product-mern-app'>product-mern-app</a><br />
+
+        <a target='_blank'
           href='https://obifyconsulting.vercel.app/api/products'>
           Products Fake API
         </a>
