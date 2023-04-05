@@ -22,7 +22,18 @@ export default function Home() {
           href='https://verdant-zabaione-915e20.netlify.app/'>
           HTML & CSS Practicals - 2
         </a>
-        <a style={{ display: 'none' }} href='https://github.com/mahesh1404/Frontend'>Frontend</a><br />
+        <a style={{ display: 'none' }} href='https://github.com/ranjanpandeysbp/bootstrap5-react-crud-api-auth-ob'>bootstrap5-react-crud-api-auth-ob</a><br />
+        <a target='_blank'
+          href='https://bootstrap5-react-crud-api-auth-ob.vercel.app/'>
+          Real Estate React App With Redux & Context API
+        </a>
+        <a style={{ display: 'none' }} href='https://github.com/obify/react-redux-mastery'>react-redux-mastery</a><br />
+        <a target='_blank'
+          href='https://react-redux-mastery.vercel.app/'>
+          Product Redux App
+        </a>
+        <a style={{ display: 'none' }} href='https://github.com/obify/product-mern-app'>product-mern-app</a><br />
+
         <a target='_blank'
           href='https://product-mern-app-fe.vercel.app/'>
           Product MERN App
